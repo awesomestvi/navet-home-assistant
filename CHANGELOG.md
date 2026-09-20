@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.17.2-beta.1 (2026-09-20)
+
+## Improvements and bug fixes
+
+- Fixed the Home security summary badge counting ordinary open covers, such as blinds, as security warnings.
+
 ## 0.17.1 - 2026-09-17
 
 ## Improvements and bug fixes
