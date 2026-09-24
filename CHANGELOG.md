@@ -1,5 +1,17 @@
 # Changelog
 
+## 0.17.3 (2026-09-24)
+
+## Improvements and bug fixes
+
+- Browser Zoom choices now persist on this device after a reload.
+- Confirmation alerts now appear as centered dialogs on phones and larger screens instead of phone cover sheets.
+- Climate now shows environmental readings from devices that also have controls, such as air purifiers and thermostats.
+- Thermostat cards show the target temperature while idle or off, so setpoint changes stay visible.
+- Climate and humidifier knobs no longer show a solid glow shape on low-effects devices.
+- Climate, Media, and Security grouping controls use a compact icon menu, leaving more room for section tabs.
+- Fixed mobile dashboard cards, media controls, chore fields, and the browser zoom preference in Safari.
+
 ## 0.17.3-beta.1 (2026-09-23)
 
 ## Improvements and bug fixes
