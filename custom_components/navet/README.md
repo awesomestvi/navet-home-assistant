@@ -1,13 +1,13 @@
 # Navet Home Assistant Panel
 
 This custom integration registers Navet as a Home Assistant sidebar panel.
-This directory is the canonical monorepo source exported to `awesomestvi/navet-home-assistant`.
+This directory is the canonical monorepo source exported to `navet-app/navet-home-assistant`.
 The generated `frontend/` bundle is assembled during export and is tracked only in the published
 HACS repository, not in this monorepo.
 
 ## Install With HACS
 
-1. Add `https://github.com/awesomestvi/navet-home-assistant` as a HACS custom repository with
+1. Add `https://github.com/navet-app/navet-home-assistant` as a HACS custom repository with
    category `Integration`.
 2. Download `Navet`.
 3. Restart Home Assistant.
