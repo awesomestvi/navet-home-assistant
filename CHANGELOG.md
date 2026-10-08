@@ -1,5 +1,16 @@
 # Changelog
 
+## 0.17.8 (2026-10-08)
+
+## Improvements and bug fixes
+
+- Household guides explain that See rewards appears after creating a mission or enabled reward goal.
+- Hide unsupported Stop controls on cover cards and use the standard card surface for covers without position controls.
+- Keep keyboard focus inside device controls dialogs and return it to the opener on dismissal.
+- Restore keyboard tab switching and card-action focus, separate lighting-row controls, and keep lighting previews consistent after brightness edits.
+- Scroll long light-effect menus and keep animated colors inside the card's rounded corners.
+- Improve search touch targets and keyboard focus, hide unsupported speaker actions, and retain failed chore imports for retry.
+
 ## 0.17.8-beta.2 (2026-10-08)
 
 ## Improvements and bug fixes
